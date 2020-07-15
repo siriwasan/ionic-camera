@@ -6,5 +6,5 @@
 4. npx cap add android
 5. npm install @ionic/pwa-elements
 6. ionic build
-7. npm cap sync
+7. npm cap copy
 8. npx cap open android
